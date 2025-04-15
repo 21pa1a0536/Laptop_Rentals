@@ -20,7 +20,6 @@ public class LaptopBookingHandler {
 
                 Messaging.sendEmail(new List<Messaging.SingleEmailMessage>{email});
 
-
         }
 
     }
