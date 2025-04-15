@@ -5,7 +5,7 @@ A powerful CRM solution designed to streamline the process of renting laptops fo
 # 📋 Project Summary
 The Laptop Rentals project is crafted to efficiently manage laptop inventory, rental requests, delivery tracking, and customer engagement. By automating business workflows and ensuring accurate data handling, the system simplifies operations for rental businesses, offering a smooth and reliable user experience.
 
-# 🔗 YouTube Demo: https://www.youtube.com/watch?v=Sht0avYhhmc
+🔗 YouTube Demo: https://www.youtube.com/watch?v=Sht0avYhhmc
 
 # 🛠️ Key Features
 
